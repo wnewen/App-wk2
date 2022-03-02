@@ -1,0 +1,37 @@
+[
+    {
+        "title": "晴天",
+        "artist": "周杰倫",
+        "url": "https://www.youtube.com/watch?v=DYptgVvkVLQ&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
+        "image": "./source./Jay Chou.jpg",
+        "thumbnail_image": "./soure./晴天.jpg"
+    },
+    {
+        "title": "東風破",
+        "artist": "周杰倫",
+        "url": "https://www.youtube.com/watch?v=qct0JLjaHDc&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=2&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
+        "image": "./source./Jay Chou.jpg",
+        "thumbnail_image": "./soure./東風破.jpg"
+    },
+    {
+        "title": "她的睫毛",
+        "artist": "周杰倫",
+        "url": "https://www.youtube.com/watch?v=gqzlB7Gla2E&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=3&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
+        "image": "./source./Jay Chou.jpg",
+        "thumbnail_image": "./soure./她的睫毛.jpg"
+    },
+    {
+        "title": "以父之名",
+        "artist": "周杰倫",
+        "url": "https://www.youtube.com/watch?v=9q7JOQfcJQM&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=12&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
+        "image": "./source./Jay Chou.jpg",
+        "thumbnail_image": "./soure./以父之名.jpg"
+    },
+    {
+        "title": "愛情懸崖",
+        "artist": "周杰倫",
+        "url": "https://www.youtube.com/watch?v=H5VQdhYh9rc&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=8&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
+        "image": "./source./Jay Chou.jpg",
+        "thumbnail_image": "./soure./愛情懸崖.jpg"
+    }
+]
