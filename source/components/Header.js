@@ -5,7 +5,7 @@ const Header = () => {
     return(
         <View style={styles.headerStyle}>
             <Text style={styles.textStyle}>
-            Albums
+            葉惠美
             </Text>
         </View>
     );
@@ -13,7 +13,7 @@ const Header = () => {
 
 const styles = StyleSheet.create({
     headerStyle: {
-        backgroundColor: "#f8f8f8",
+        backgroundColor: "#272727",
         justifyContent: "center",
         alignItems: "center",
         height: 60,
@@ -21,9 +21,11 @@ const styles = StyleSheet.create({
         shadowOpacity: 2,
         //Android only
         elevation: 2,
+        borderRadius: 5,
       },
     textStyle: {
-        fontSize: 20,
+        fontSize: 18,
+        color: "#ffffdf",
     },
 });
 

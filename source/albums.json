@@ -3,35 +3,35 @@
         "title": "晴天",
         "artist": "周杰倫",
         "url": "https://www.youtube.com/watch?v=DYptgVvkVLQ&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
-        "image": "./source./Jay Chou.jpg",
-        "thumbnail_image": "./soure./晴天.jpg"
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSm67lXZXdaKIf7_uVK24xPN1OJr6dJcaZtbQUn=s900-c-k-c0x00ffffff-no-rj",
+        "thumbnail_image": "https://i.ytimg.com/vi/nboiIFGT8Dk/maxresdefault.jpg"
     },
     {
         "title": "東風破",
         "artist": "周杰倫",
         "url": "https://www.youtube.com/watch?v=qct0JLjaHDc&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=2&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
-        "image": "./source./Jay Chou.jpg",
-        "thumbnail_image": "./soure./東風破.jpg"
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSm67lXZXdaKIf7_uVK24xPN1OJr6dJcaZtbQUn=s900-c-k-c0x00ffffff-no-rj",
+        "thumbnail_image": "https://i.ytimg.com/vi/qct0JLjaHDc/sddefault.jpg"
     },
     {
         "title": "她的睫毛",
         "artist": "周杰倫",
         "url": "https://www.youtube.com/watch?v=gqzlB7Gla2E&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=3&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
-        "image": "./source./Jay Chou.jpg",
-        "thumbnail_image": "./soure./她的睫毛.jpg"
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSm67lXZXdaKIf7_uVK24xPN1OJr6dJcaZtbQUn=s900-c-k-c0x00ffffff-no-rj",
+        "thumbnail_image": "https://www.easyatm.com.tw/img/d/908/nBnauM3X2YTO3IDO1ITO5UDN0UTM4ADM2gTM1YTNwAzMxAzLykzLxgzLt92YucmbvRWdo5Cd0FmLzE2LvoDc0RHa.jpg"
     },
     {
         "title": "以父之名",
         "artist": "周杰倫",
         "url": "https://www.youtube.com/watch?v=9q7JOQfcJQM&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=12&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
-        "image": "./source./Jay Chou.jpg",
-        "thumbnail_image": "./soure./以父之名.jpg"
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSm67lXZXdaKIf7_uVK24xPN1OJr6dJcaZtbQUn=s900-c-k-c0x00ffffff-no-rj",
+        "thumbnail_image": "http://i2.hdslb.com/bfs/archive/e9deec79e6298d9f7a1c84e689a7f3534011c0b0.jpg"
     },
     {
         "title": "愛情懸崖",
         "artist": "周杰倫",
         "url": "https://www.youtube.com/watch?v=H5VQdhYh9rc&list=PLgFC_SXvt6LmByjzSBtO1aD1W9J5D3ppg&index=8&ab_channel=%E5%91%A8%E6%9D%B0%E5%80%ABJayChou",
-        "image": "./source./Jay Chou.jpg",
-        "thumbnail_image": "./soure./愛情懸崖.jpg"
+        "image": "https://yt3.ggpht.com/ytc/AKedOLSm67lXZXdaKIf7_uVK24xPN1OJr6dJcaZtbQUn=s900-c-k-c0x00ffffff-no-rj",
+        "thumbnail_image": "http://i1.hdslb.com/bfs/archive/9df053f30cd717d4303e72445fa9dfb353bdd460.jpg"
     }
 ]

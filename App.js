@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, SafeAreaView, Image } from 'react-native';
 import Header from "./source/components/Header";
 import AlbumList from './source/components/AlbumList';
 
-export default function App() {
+const App = () => {
   return (
     <SafeAreaView style={{ flex: 1 }}>
       <StatusBar />
@@ -13,6 +13,8 @@ export default function App() {
     </SafeAreaView>
   );
 };
+
+export default App;
 
 
 
